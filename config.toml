@@ -1,0 +1,11 @@
+baseURL = "https://BurningChromeRPG.com/"
+languageCode = "en-us"
+title = "Burning Chrome"
+theme = "seminyak"
+
+[params]
+  theme_color = "#fcfbeb"
+  color_palette = "indigo"
+  background_image_url = "https://images.unsplash.com/photo-1506045412240-22980140a405?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b8eae33769440ee3a2240bb8f2a15af9"
+  referrer_policy = "same-origin"
+  google_fonts = "Russo One|Metrophobic"
